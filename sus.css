@@ -1,0 +1,66 @@
+html{
+	overflow:hidden;
+	background-image:  url(boy.jpg);
+	height: 100%;
+	width: 100%;
+	color: white;
+}
+
+
+p.{
+	text-align: center;
+	color: #ffffff;
+	font-color: white;
+	font-size: 72pt;
+	font-style: Georgia;
+	clear: none;
+	float:right;
+}
+
+img {
+	 width: 90px;
+	height: 90px;
+	text-align: left;
+	vertical-align: left;
+	float: none; 
+}
+a{
+	color: white;
+}
+.div {
+	line-height: 30px;
+	background-color: white;
+	height: 300px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+h1{
+	text-align: center;
+	font-size: 25pt;
+}
+
+
+ul{
+	font-color:White;
+	font-style: italic;
+	font-size: 32pt;
+	float: right;
+	clear:none;
+}
+
+h1{
+	text-align: center;
+	font-size: 32pt;
+	list-style-type: center;
+	float: left;
+	clear:none;
+}
+footer{
+  
+}
+li{
+	text-align: center;
+}
+
+
